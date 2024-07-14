@@ -179,9 +179,9 @@ font-size: 30px;
     text-align: center;
 }
 /* responsive media quary */
-.hide{
+/* .hide{
     display: none;
-}
+} */
 
 @media screen  and (max-width:576px){
     .resume-container, 
